@@ -1,1 +1,7 @@
 project_id = "qfrbavlkkljscpqhiotf"
+
+[functions.file-upload]
+verify_jwt = false
+
+[functions.file-download]
+verify_jwt = false
