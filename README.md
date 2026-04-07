@@ -10,11 +10,11 @@ SecureShare is a modern, secure file sharing application that allows users to up
 
 ### Upload Flow
 
-![Upload Flow](/upload.png)
+![Upload Flow](public/upload.png)
 
 ### Download Flow
 
-![Download Flow](/download.png)
+![Download Flow](public/download.png)
 
 ---
 
